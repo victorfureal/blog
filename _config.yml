@@ -1,6 +1,8 @@
 permalink: /posts/:title
 markdown: kramdown
+encoding:UTF-8
+title:¸µÎ¬ÏèµÄ²©¿Í
 
 name: Victor Fu
-url: https://victorfureal.github.io/blog/
+url: https://victorfureal.github.io
 description: Victor Fu's Blog.
