@@ -1,8 +1,10 @@
 permalink: /:title
 markdown: kramdown
+gems: [jekyll-paginate]
 encoding:UTF-8
+feed: /atom.xml
 title:¸µÎ¬ÏèµÄ²©¿Í
 
 name: ¸µÎ¬Ïè
-url: https://victorfureal.github.io
+url: https://victorfureal.github.io/
 description: Victor Fu's Blog.
