@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2012</p>
+		<p>&copy; Since 2018</p>
 	</footer>
 </div>
 
@@ -35,11 +35,10 @@
 	</nav>
 	
 	<div class="block block-about">
-		<h3>About</h3>
-		<figure>
-			<img src="/image/my_head.jpg" width="50" height="70">
-			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
-		</figure>
+		<h3>作者</h3>
+		<img src="/image/my_head.jpg" width="100" height="140">
+		<h4>{{ site.meta.author.name }}</h4>
+		<h4>{{ site.meta.author.email }}<h4>
 		<p>随遇而安.</p>
 	</div>
 	

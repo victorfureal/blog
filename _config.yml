@@ -3,22 +3,26 @@ permalink: /posts/:title.html
 encoding: UTF-8
 gems: [jekyll-paginate]
 
-title: Victor Fu's Site
+title: 傅维翔的博客
 url: http://victorfureal.github.io
 feed: /feed.xml
 
 custom:
     category:
-        default: Default Category
-        another: Another Category
+        java: Java
+        qt: Qt
+        life: 随想
     categories:
-      - name:  default
-        title: Default Category
+      - name:  java
+        title: Java
 
-      - name:  another
-        title: Another Category
+      - name:  qt
+        title: Qt
+        
+      - name:  life
+        title: 随想
 
-    scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
+    scrollingLoadCount: 5                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:
