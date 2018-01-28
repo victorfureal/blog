@@ -1,10 +1,11 @@
-safe: false
+markdown: kramdown
 permalink: /posts/:title.html
-exclude:
-  - README.md
+encoding: UTF-8
+gems: [jekyll-paginate]
 
-name: Victor Fu's Site
-desc: Victor Fu's Blog.
+title: Victor Fu's Site
+url: http://victorfureal.github.io
+feed: /feed.xml
 
 custom:
     category:
