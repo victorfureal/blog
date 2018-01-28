@@ -12,6 +12,7 @@ custom:
         java: Java
         qt: Qt
         life: 随想
+        
     categories:
       - name:  java
         title: Java
