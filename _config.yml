@@ -1,8 +1,8 @@
-permalink: /posts/:title
+permalink: /:title
 markdown: kramdown
 encoding:UTF-8
 title:¸µÎ¬ÏèµÄ²©¿Í
 
-name: Victor Fu
+name: ¸µÎ¬Ïè
 url: https://victorfureal.github.io
 description: Victor Fu's Blog.
