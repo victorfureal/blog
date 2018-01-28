@@ -1,14 +1,11 @@
 permalink: /post/:title
 markdown: kramdown
-
-gems:
-  - jekyll-sitemap
   
 gems: [jekyll-paginate]
 encoding: UTF-8
 feed: /atom.xml
 title: "Victor's Blog"
 
-name: Victor Fu
+name: ¸µÎ¬Ïè
 url: https://victorfureal.github.io/
 description: Victor Fu's Blog.
